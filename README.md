@@ -49,6 +49,10 @@ New Features:
 
 <img width="739" alt="Screenshot 2023-08-01 at 15 55 30" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/0af58542-ddf4-4e80-a2e3-22e277afeb04">
 
+**Remove and Like button**
+
+<img width="744" alt="Screenshot 2023-08-01 at 15 58 02" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/2b74e3b8-daa9-4958-a046-3b749bc66515">
+
 
 ## **Technology I used in this project**
 ### Front-End: 
