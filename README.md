@@ -25,11 +25,12 @@ New Features:
 - Token authentication
 
 # How it works
-If a user is not logged in, only the login form is visible.
+**If a user is not logged in, only the login form is visible.**
 
 <img width="738" alt="Screenshot 2023-08-01 at 15 48 35" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/d82996bb-f8e6-42bf-9411-76164cb3d4cb">
 
-If the user is logged-in, the name of the user and a list of blogs is shown.
+**If the user is logged-in, the name of the user and a list of blogs is shown.**
+
 
 <img width="746" alt="Screenshot 2023-08-01 at 15 49 30" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/b45e9bed-0881-4e31-8350-f3782d2fcefe">
 
