@@ -13,3 +13,35 @@ Where to save all the blogs
 
 ## Link to the repository of Blog Front-End 
 [Frontend Repository](https://github.com/VienThanh12/Blog-Frontend)
+
+# Description of Project
+A blog is an online website where individuals regularly publish written content in the form of posts or articles. Blogs serve a variety of purposes and can be used for different reasons, including:
+- Sharing Information
+- Expressing Ideas and Opinions
+- Educating and Informing
+
+New Features: 
+User administration
+Token authentication
+# Description of Project
+
+
+## **Technology I used in this project**
+### Front-End: 
+- Languages:
+  - HTML
+  - CSS
+  - Javascript
+- Framework:
+  - ReactJs
+### Back-End:
+- Language:
+  - Javascript
+  - Node.js
+- Framework:
+    - Express.js
+    - Mongoose
+### Database:
+- MongoDB 
+  
+> I also used **Render** to deploy the app to the internet and **MongoDB Atlas** to save the data.
