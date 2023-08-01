@@ -31,10 +31,22 @@ New Features:
 
 **If the user is logged-in, the name of the user and a list of blogs is shown.**
 
+<img width="737" alt="Screenshot 2023-08-01 at 15 54 05" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/6c238d89-c149-454c-aaad-3c49a5bfb3db">
 
-<img width="746" alt="Screenshot 2023-08-01 at 15 49 30" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/b45e9bed-0881-4e31-8350-f3782d2fcefe">
+**Notifications that inform the user about successful and unsuccessful operations at the top of the page**
 
+<img width="747" alt="Screenshot 2023-08-01 at 15 51 17" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/29befc7a-6299-4541-84b9-de314143f671">
 
+**Failed login can show the following notification**
+
+<img width="746" alt="Screenshot 2023-08-01 at 15 51 47" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/8fdf58c8-7064-46fa-95bd-81ef4c8bc973">
+
+**By default the form is not visible**
+<img width="739" alt="Screenshot 2023-08-01 at 15 54 58" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/b2ecf31f-4dc1-4aff-8b73-fb737917e6e9">
+
+**It expands when button create new blog is clicked**
+
+<img width="739" alt="Screenshot 2023-08-01 at 15 55 30" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/0af58542-ddf4-4e80-a2e3-22e277afeb04">
 
 
 ## **Technology I used in this project**
