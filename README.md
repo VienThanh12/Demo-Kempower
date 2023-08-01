@@ -42,6 +42,7 @@ New Features:
 <img width="746" alt="Screenshot 2023-08-01 at 15 51 47" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/8fdf58c8-7064-46fa-95bd-81ef4c8bc973">
 
 **By default the form is not visible**
+
 <img width="739" alt="Screenshot 2023-08-01 at 15 54 58" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/b2ecf31f-4dc1-4aff-8b73-fb737917e6e9">
 
 **It expands when button create new blog is clicked**
