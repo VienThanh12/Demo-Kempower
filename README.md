@@ -53,7 +53,6 @@ New Features:
 
 <img width="744" alt="Screenshot 2023-08-01 at 15 58 02" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/2b74e3b8-daa9-4958-a046-3b749bc66515">
 
-
 ## **Technology I used in this project**
 ### Front-End: 
 - Languages:
