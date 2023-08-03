@@ -68,6 +68,6 @@ New Features:
     - Express.js
     - Mongoose
 ### Database:
-- MongoDB 
-  
+- MongoDB
+- 
 > I also used **Render** to deploy the app to the internet and **MongoDB Atlas** to save the data.
