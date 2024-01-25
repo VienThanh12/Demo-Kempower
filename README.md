@@ -69,5 +69,4 @@ New Features:
     - Mongoose
 ### Database:
 - MongoDB
-- 
 > I also used **Render** to deploy the app to the internet and **MongoDB Atlas** to save the data.
