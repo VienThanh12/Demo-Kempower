@@ -1,7 +1,7 @@
 # Blog-Project
 Where to save all the blogs
 ## Link to Website
-### [Blog]([https://blog-project-kj92.onrender.com](https://demo-kempower.onrender.com))
+### [Blog](https://demo-kempower.onrender.com)
 > You can view the website by clicking this link
 
 <img width="269" alt="Screenshot 2023-08-01 at 15 22 35" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/700b775b-3249-47c2-b0c4-2075297ef720">
