@@ -1,7 +1,7 @@
 # Blog-Project
 Where to save all the blogs
 ## Link to Website
-### [Blog](https://blog-project-kj92.onrender.com)
+### [Blog]([https://blog-project-kj92.onrender.com](https://demo-kempower.onrender.com))
 > You can view the website by clicking this link
 
 <img width="269" alt="Screenshot 2023-08-01 at 15 22 35" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/700b775b-3249-47c2-b0c4-2075297ef720">
@@ -11,7 +11,7 @@ Where to save all the blogs
 **Note:** Remember that because I use a free account in [Render.com](https://render.com/). so it will spin down with inactivity. If you can not see it, I don't activate the web yet. Sorry for this inconvenience.
 
 ## Link to the repository of Blog Front-End 
-[Frontend Repository](https://github.com/VienThanh12/Blog-Frontend)
+[Frontend Repository](https://github.com/VienThanh12/Demo-Blog-Frontend)
 
 # Description of Project
 A blog is an online website where individuals regularly publish written content in the form of posts or articles. Blogs serve a variety of purposes and can be used for different reasons, including:
