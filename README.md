@@ -15,7 +15,12 @@ I have completed 140/240 credits at my university and I expect that I will finis
 ### 2. I believe 100% in Kempower's mission, values, and products/services for a greener, quieter environment.
 I do want to work for that.
 As you know, I am from Viet Nam, a developing country. Whenever I go out, I see air pollution, dust, and noise what I hate the most in my country. So I want to gain some insight and experience to deal with it. In the future, I will contribute to my country to somewhat extent. 
-### 3.  
+### 3. Kempower is my ideal place to apply my knowledge
+We will start with the reason why I chose Automation Engineer. When I stud
+
+## Reason why I choose Automation Engineer as my major in my university. 
+It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, most of the time I just studied the software so when I applied to the university I wanted to learn more about hardware. Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
+<img width="1169" alt="Screenshot 2024-01-28 at 15 16 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3dee37fb-f00f-4544-bccc-c37f4b20242c">
 
 
 ## Demo Coding Project that I have been working with in my free time that could support my success in this trainee program.
