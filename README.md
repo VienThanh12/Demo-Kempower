@@ -10,7 +10,11 @@ I am confident that my technical skills, problem-solving abilities, and dedicati
 ## Demo Coding Project that I have been working with in my free time that could support my success in this trainee program.
 
 # Blog - Project
-I created a website to save all of the blogs. 
+
+A blog is an online website where individuals regularly publish written content in the form of posts or articles. Blogs serve a variety of purposes and can be used for different reasons, including:
+- Sharing Information
+- Expressing Ideas and Opinions
+- Educating and Informing
 
 ## Link to Website
 ### [Blog](https://demo-kempower.onrender.com)
@@ -26,10 +30,6 @@ I created a website to save all of the blogs.
 [Frontend Repository](https://github.com/VienThanh12/Demo-Blog-Frontend)
 
 # Description of Project
-A blog is an online website where individuals regularly publish written content in the form of posts or articles. Blogs serve a variety of purposes and can be used for different reasons, including:
-- Sharing Information
-- Expressing Ideas and Opinions
-- Educating and Informing
 
 New Features: 
 - User administration
