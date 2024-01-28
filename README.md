@@ -1,4 +1,4 @@
-
+### A little bit about my self
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
 In my educational journey, I have maintained mostly a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools.  One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
