@@ -1,5 +1,17 @@
-# Blog-Project
-Where to save all the blogs
+
+My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
+
+In my educational journey, I have maintained mostly a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools.  One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
+
+My skill set encompasses a solid understanding of web performance optimization, competitive programming, and expertise in programming languages including C/C++, C#, JavaScript, and Python. On the front end, I am proficient in HTML, CSS, and ReactJS, while my back-end capabilities include Node.js, Express.js, and MongoDB.  I am particularly drawn to Kempower's commitment to a greener environment. 
+
+I am confident that my technical skills, problem-solving abilities, and dedication to excellence align well with the requirements of the cloud software trainee.
+
+# Demo Coding Project that I have been working with in my free time that could support my success in this trainee program.
+
+# Blog - Project
+
+
 ## Link to Website
 ### [Blog](https://demo-kempower.onrender.com)
 > You can view the website by clicking this link
