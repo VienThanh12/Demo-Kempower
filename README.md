@@ -19,7 +19,8 @@ As you know, I am from Viet Nam, a developing country. Whenever I go out, I see 
 We will start with the reason why I chose Automation Engineer. When I stud
 
 ## Reason why I choose Automation Engineer as my major in my university. 
-It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, most of the time I just studied the software so when I applied to the university I wanted to learn more about hardware. Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
+
+It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, It has been 4 years since I only studied software so when I applied to the university I wanted to learn more about hardware. Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
 <img width="1169" alt="Screenshot 2024-01-28 at 15 16 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3dee37fb-f00f-4544-bccc-c37f4b20242c">
 
 
