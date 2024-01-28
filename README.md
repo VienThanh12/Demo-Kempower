@@ -16,7 +16,13 @@ I have completed 140/240 credits at my university and I expect that I will finis
 I do want to work for that.
 As you know, I am from Viet Nam, a developing country. Whenever I go out, I see air pollution, dust, and noise what I hate the most in my country. So I want to gain some insight and experience to deal with it. In the future, I will contribute to my country to somewhat extent. 
 ### 3. Kempower is my ideal place to apply my knowledge
-We will start with the reason why I chose Automation Engineer. When I stud
+I understand the key responsibilities and requirements for the cloud software trainee position. With a passion for combining hardware and software to create innovative solutions, I am excited about the prospect of contributing my skills. I believe that I can learn many things in Kempower. 
+
+### 4. Cloud Team in Kempower. 
+Recently, I talked with Andrew Trieu and he told me many good things like international and welcoming about Cloud teams. I hope in the future I can work and have a fun time with you guys (the mentors Aku and Sean). 
+
+### 5. I can take care of my little brother.
+My little brother is studying Software at Lahti University and living in Lahti. If I can get a job offer, I can move to Lahti to live together with my little brother.
 
 ## Reason why I choose Automation Engineer as my major in my university. 
 
