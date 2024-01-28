@@ -23,8 +23,8 @@ We will start with the reason why I chose Automation Engineer. When I stud
 It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, It has been 4 years since I only studied software so when I applied to the university I wanted to learn more about hardware. Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
 <img width="1169" alt="Screenshot 2024-01-28 at 15 16 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3dee37fb-f00f-4544-bccc-c37f4b20242c">
 
-## Reason why I choose this university.
-At that time, my family doesn't have much money to pay my tuition fee for me. But the tuition fee of SeAMK is just about 4900 euros which is the cheapest in Finland. So I just go with it. 
+## Reason why I choose SeAMK (Seinäjoki University Of Applied Science).
+At that time, my family doesn't have much money to pay my tuition fee for me. But the tuition fee of SeAMK is just about 4900 euros which is almost the cheapest tuition fee in Finland. And I could not get like 50% or 100% in another university so I just go with it.  
 
 ## Demo Coding Project that I have been working with in my free time that could support my success in this trainee program.
 
