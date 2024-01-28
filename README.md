@@ -1,11 +1,22 @@
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
-In my educational journey, I have maintained mostly a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools. I have been working with C/C++ for almost 4 years so I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
+In my educational journey, I have maintained mostly a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests
+
+My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools. I have been working with C/C++ for almost 4 years so I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
 
 My skill set encompasses a solid understanding of web performance optimization, competitive programming, and expertise in programming languages including C/C++, C#, JavaScript, and Python. On the front end, I am proficient in HTML, CSS, and ReactJS, while my back-end capabilities include Node.js, Express.js, and MongoDB.  I am particularly drawn to Kempower's commitment to a greener environment. 
 
 I am confident that my technical skills, problem-solving abilities, and dedication to excellence align well with the requirements of the cloud software trainee.
+
+## 5 reasons why I choose Kempower 
+### 1. I need a practical training for my study. 
+I have completed 140/240 credits at my university and I expect that I will finish about 190/240 credits at the end of April 2024. So I need 30 credits for practical training and 15 credits more to graduate. And Kempower is my ideal place to do that. 
+### 2. I believe 100% in Kempower's mission, values, and products/services for a greener, quieter environment.
+I do want to work for that.
+As you know, I am from Viet Nam, a developing country. Whenever I go out, I see air pollution, dust, and noise what I hate the most in my country. So I want to gain some insight and experience to deal with it. In the future, I will contribute to my country to somewhat extent. 
+### 3.  
+
 
 ## Demo Coding Project that I have been working with in my free time that could support my success in this trainee program.
 
