@@ -1,12 +1,15 @@
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
-In my educational journey, I have maintained nearly a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
+In my educational journey, I have maintained nearly a GPA of 4.77/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
 
 <img width="351" alt="Screenshot 2024-01-28 at 16 20 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/ed82f6c9-53bd-4b77-8c3a-39eb87cf7431">
 
 
 My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools. I have been working with C/C++ for almost 6 years so I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
+
+
+
 
 My skill set encompasses a solid understanding of web performance optimization, competitive programming, and expertise in programming languages including C/C++, C#, JavaScript, and Python. On the front end, I am proficient in HTML, CSS, and ReactJS, while my back-end capabilities include Node.js, Express.js, and MongoDB.  I am particularly drawn to Kempower's commitment to a greener environment. 
 
@@ -30,7 +33,11 @@ My little brother is studying Software at Lahti University and living in Lahti. 
 
 ## Reason why I choose Automation Engineer as my major in my university. 
 
-It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, It has been 4 years since I only studied software so when I applied to the university I wanted to learn more about hardware. Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
+It started from my background in my highschool. I studied Computer Science in a high school for the gifted. I started to code C/C++ in grade 9 when I was 14 years old, It has been 4 years since I only studied software so when I applied to the university I wanted to learn more about hardware. 
+
+<img width="873" alt="Screenshot 2024-01-28 at 16 22 03" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/21099b43-25bc-45af-814b-e18d36cfae27">
+
+Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
 <img width="1169" alt="Screenshot 2024-01-28 at 15 16 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3dee37fb-f00f-4544-bccc-c37f4b20242c">
 
 ## Reason why I choose SeAMK (Seinäjoki University Of Applied Science).
