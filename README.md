@@ -14,6 +14,7 @@ I am confident that my technical skills, problem-solving abilities, and dedicati
 I have completed 140/240 credits at my university and I expect that I will finish about 190/240 credits at the end of April 2024. So I need 30 credits for practical training and 15 credits more to graduate. And Kempower is my ideal place to do that. 
 ### 2. I believe 100% in Kempower's mission, values, and products/services for a greener, quieter environment.
 I do want to work for that.
+
 As you know, I am from Viet Nam, a developing country. Whenever I go out, I see air pollution, dust, and noise what I hate the most in my country. So I want to gain some insight and experience to deal with it. In the future, I will contribute to my country to somewhat extent. 
 ### 3. Kempower is my ideal place to apply my knowledge
 I understand the key responsibilities and requirements for the cloud software trainee position. With a passion for combining hardware and software to create innovative solutions, I am excited about the prospect of contributing my skills. I believe that I can learn many things in Kempower. 
