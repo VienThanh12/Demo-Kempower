@@ -38,7 +38,10 @@ It started from my background in my highschool. I studied Computer Science in a 
 <img width="873" alt="Screenshot 2024-01-28 at 16 22 03" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/21099b43-25bc-45af-814b-e18d36cfae27">
 
 Automation is a good choice for me. Because automation is comprised of about 40% software and 60% hardware. Especially when it comes to coding or programming, I can study it by myself. As you can see in the summer when I have free time, I completed the Fullstack course at the University Of Helsinki with 7 credits and grade 5. 
+
 <img width="1169" alt="Screenshot 2024-01-28 at 15 16 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3dee37fb-f00f-4544-bccc-c37f4b20242c">
+
+<img width="1120" alt="Screenshot 2024-01-29 at 17 02 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/0a07b85f-ae2b-436c-a69b-b78cc6b2d99f">
 
 ## Reason why I choose SeAMK (Seinäjoki University Of Applied Science).
 At that time, my family doesn't have much money to pay my tuition fee for me. But the tuition fee of SeAMK is just about 4900 euros which is almost the cheapest tuition fee in Finland. And I could not get like 50% or 100% in another university so I just go with it.  
