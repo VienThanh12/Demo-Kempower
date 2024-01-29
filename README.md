@@ -134,6 +134,33 @@ New Features:
 # Demo-Kempower
 
 
+Explaining of Coding
+<img width="246" alt="Screenshot 2024-01-29 at 23 01 04" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/46f38b62-9ccb-4302-a568-9e7f7a2a8461">
+
+You can see that the project will have two files (Blog-Frontend and Blog-Project)
+Blog-Frontend will be responsible for the user interface.
+Blog-Project will take care of the data.
+<img width="248" alt="Screenshot 2024-01-29 at 23 03 28" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/a1f1b6bb-a569-44fe-994d-46c0031c7954">
+
+In the backend, we will have many files like this
+Build -> that I build from the frontend to connect between the backend and frontend after you have done with the frontend, we use npm build to establish a front-end file. And put it into the backend code.
+
+<img width="249" alt="Screenshot 2024-01-29 at 23 22 04" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/ab93002c-4258-4ab6-82b2-3de7e435f802">
+
+Controller to create an express server and using RESTful HTTP API method get.
+
+<img width="824" alt="Screenshot 2024-01-29 at 23 34 18" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/a48bab85-fdc8-492e-a870-82a4656b363d">
+
+<img width="248" alt="Screenshot 2024-01-29 at 23 34 33" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/a11c5315-3ab4-44b4-9424-1b64c3ea93c6">
+
+The next one will be the model file.
+Where I define a schema for a blog and the matching model. The schema tells Mongoose how the note objects are to be stored in the database.
+
+We also need to write some tests to check whether it's working as I think or not.
+
+<img width="247" alt="Screenshot 2024-01-29 at 23 39 07" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d308cfb-5767-4953-b2e5-9d28cf45ae69">
+
+
 **Reference:**
 
 https://fullstackopen.com
