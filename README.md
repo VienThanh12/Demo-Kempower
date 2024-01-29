@@ -162,6 +162,8 @@ We also need to write some tests to check whether it's working as I think or not
 
 <img width="247" alt="Screenshot 2024-01-29 at 23 39 07" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d308cfb-5767-4953-b2e5-9d28cf45ae69">
 
+### Improvement in the future
+There are many room for improvements like create a sign up view or we can use react route to create a link between a view.
 
 **Reference:**
 
