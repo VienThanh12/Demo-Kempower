@@ -79,7 +79,8 @@ New Features:
 
 <img width="1440" alt="Screenshot 2024-01-29 at 08 21 15" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d618de0-3ed2-43ac-ba7b-f87eb96d411a">
 
-**If you enter a wrong username or password, there will be a text to notify you.**
+**Failed login can show the following notification**
+
 <img width="1346" alt="Screenshot 2024-01-29 at 17 11 19" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/1324654c-2b50-4e64-918a-1357871809c4">
 
 
@@ -100,24 +101,12 @@ New Features:
 
 **Notifications that inform the user about successful and unsuccessful operations at the top of the page**
 
-<img width="1440" alt="Screenshot 2024-01-29 at 17 32 58" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4e9d7a45-2617-4e05-9030-67d7ba3d8a77">
 
-
-**Failed login can show the following notification**
-
-<img width="746" alt="Screenshot 2023-08-01 at 15 51 47" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/8fdf58c8-7064-46fa-95bd-81ef4c8bc973">
-
-**By default the form is not visible**
-
-<img width="739" alt="Screenshot 2023-08-01 at 15 54 58" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/b2ecf31f-4dc1-4aff-8b73-fb737917e6e9">
-
-**It expands when button create new blog is clicked**
-
-<img width="739" alt="Screenshot 2023-08-01 at 15 55 30" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/0af58542-ddf4-4e80-a2e3-22e277afeb04">
+<img width="829" alt="Screenshot 2024-01-29 at 17 43 03" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/7ddb82a4-2a08-4585-a86c-95a360f0109d">
 
 **Remove and Like button**
 
-<img width="744" alt="Screenshot 2023-08-01 at 15 58 02" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/2b74e3b8-daa9-4958-a046-3b749bc66515">
+<img width="1435" alt="Screenshot 2024-01-29 at 17 44 39" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/d46ccfaa-f852-49fc-aa50-160b8d86721b">
 
 ## **Technology I used in this project**
 ### Front-End: 
@@ -127,6 +116,7 @@ New Features:
   - Javascript
 - Framework:
   - ReactJs
+  - React Bootstrap
 ### Back-End:
 - Language:
   - Javascript
