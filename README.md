@@ -1,7 +1,7 @@
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
-In my educational journey, I have maintained nearly a GPA of 4.77/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
+In my educational journey, I have maintained a GPA of 4.77/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
 
 <img width="351" alt="Screenshot 2024-01-28 at 16 20 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/ed82f6c9-53bd-4b77-8c3a-39eb87cf7431">
 
