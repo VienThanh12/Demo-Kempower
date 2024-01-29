@@ -56,9 +56,9 @@ A blog is an online website where individuals regularly publish written content 
 ### [Blog](https://demo-kempower.onrender.com)
 > You can view the website by clicking this link
 
-<img width="269" alt="Screenshot 2023-08-01 at 15 22 35" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/700b775b-3249-47c2-b0c4-2075297ef720">
+<img width="1440" alt="Screenshot 2024-01-29 at 08 13 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/90952fbd-5f3e-4012-91c6-60c32bd0dbb2">
 
-![Screenshot 2023-08-01 at 14 51 53](https://github.com/VienThanh12/Blog-Project/assets/67015555/8009d014-f2ed-4885-844a-d526f46a6552)
+<img width="1440" alt="Screenshot 2024-01-29 at 08 20 16" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3923ca4a-10b0-4546-ba2c-d5c3466574f4">
 
 **Note:** Remember that because I use a free account in [Render.com](https://render.com/). so it will spin down with inactivity. If you can not see it, I don't activate the web yet. Sorry for this inconvenience.
 
@@ -74,7 +74,8 @@ New Features:
 # How it works
 **If a user is not logged in, only the login form is visible.**
 
-<img width="738" alt="Screenshot 2023-08-01 at 15 48 35" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/d82996bb-f8e6-42bf-9411-76164cb3d4cb">
+<img width="1440" alt="Screenshot 2024-01-29 at 08 21 15" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d618de0-3ed2-43ac-ba7b-f87eb96d411a">
+
 
 **If the user is logged-in, the name of the user and a list of blogs is shown.**
 
