@@ -59,6 +59,11 @@ A blog is an online website where individuals regularly publish written content 
 ### [Blog](https://demo-kempower.onrender.com)
 > You can view the website by clicking this link
 
+Here is the idea of my application 
+
+<img width="782" alt="Screenshot 2024-01-27 at 15 08 22" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/80d571ea-7300-425d-977e-fd4bd7583c22">
+
+
 <img width="1440" alt="Screenshot 2024-01-29 at 08 13 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/90952fbd-5f3e-4012-91c6-60c32bd0dbb2">
 
 <img width="1440" alt="Screenshot 2024-01-29 at 08 20 16" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/3923ca4a-10b0-4546-ba2c-d5c3466574f4">
