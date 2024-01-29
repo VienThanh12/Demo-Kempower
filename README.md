@@ -79,10 +79,20 @@ New Features:
 
 <img width="1440" alt="Screenshot 2024-01-29 at 08 21 15" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d618de0-3ed2-43ac-ba7b-f87eb96d411a">
 
+**If you enter a wrong username or password, there will be a text to notify you.**
+<img width="1346" alt="Screenshot 2024-01-29 at 17 11 19" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/1324654c-2b50-4e64-918a-1357871809c4">
+
+
+**If you successfully log in to the application, there will be a welcoming text at the top of the web.**
+
+<img width="1321" alt="Screenshot 2024-01-29 at 17 12 17" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/48273814-5253-4d1a-8fa7-a6d87db57fdd">
+
+
 
 **If the user is logged-in, the name of the user and a list of blogs is shown.**
 
-<img width="737" alt="Screenshot 2023-08-01 at 15 54 05" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/6c238d89-c149-454c-aaad-3c49a5bfb3db">
+<img width="1318" alt="Screenshot 2024-01-29 at 17 12 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/db8b3859-a75a-48b6-9bce-6150d839207d">
+
 
 **Notifications that inform the user about successful and unsuccessful operations at the top of the page**
 
