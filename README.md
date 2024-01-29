@@ -93,10 +93,15 @@ New Features:
 
 <img width="1318" alt="Screenshot 2024-01-29 at 17 12 35" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/db8b3859-a75a-48b6-9bce-6150d839207d">
 
+**You can create a new blog by clicking the "Create New Blog button", and entering the title, author, and URL of your blog**
+
+<img width="1440" alt="Screenshot 2024-01-29 at 17 26 54" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/1b3af43b-9827-43d9-83c8-671b95ed77b4">
+
 
 **Notifications that inform the user about successful and unsuccessful operations at the top of the page**
 
-<img width="747" alt="Screenshot 2023-08-01 at 15 51 17" src="https://github.com/VienThanh12/Blog-Project/assets/67015555/29befc7a-6299-4541-84b9-de314143f671">
+<img width="1440" alt="Screenshot 2024-01-29 at 17 32 58" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4e9d7a45-2617-4e05-9030-67d7ba3d8a77">
+
 
 **Failed login can show the following notification**
 
