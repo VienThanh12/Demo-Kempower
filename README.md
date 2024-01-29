@@ -108,7 +108,9 @@ New Features:
 
 <img width="829" alt="Screenshot 2024-01-29 at 17 43 03" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/7ddb82a4-2a08-4585-a86c-95a360f0109d">
 
+
 **Remove and Like button**
+
 
 <img width="1435" alt="Screenshot 2024-01-29 at 17 44 39" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/d46ccfaa-f852-49fc-aa50-160b8d86721b">
 
