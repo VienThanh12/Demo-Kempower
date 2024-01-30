@@ -14,7 +14,7 @@ I am confident that my technical skills, problem-solving abilities, and dedicati
 
 In the future, after graduating I will apply for a Computer Science Master's Degree in Aalto, Tampere University or Oulu University. 
 
-**My hobby: **
+**My hobby:**
 - Hitting the gym
 - Playing football
 - Learning Finnish (I have been going with Finnish seriously for 1 year and 4 months. In the future, I want to get a B1 level on the YKI test)
