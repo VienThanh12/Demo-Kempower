@@ -8,12 +8,17 @@ In my educational journey, I have maintained a GPA of 4.77/5 with 140/240 credit
 
 My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools. I have been working with C/C++ for almost 6 years so I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
 
-My skill set encompasses a solid understanding of web performance optimization, competitive programming, and expertise in programming languages including C/C++, C#, JavaScript, Python and Mathlab. On the front end, I am proficient in HTML, CSS, and ReactJS, while my back-end capabilities include Node.js, Express.js, and MongoDB.  I am particularly drawn to Kempower's commitment to a greener environment. 
+My skill set encompasses a solid understanding of web performance optimization, competitive programming, and expertise in programming languages including C/C++, C#, JavaScript, Python, and Mathlab. On the front end, I am proficient in HTML, CSS, and ReactJS, while my back-end capabilities include Node.js, Express.js, and MongoDB.  I am particularly drawn to Kempower's commitment to a greener environment. 
 
 I am confident that my technical skills, problem-solving abilities, and dedication to excellence align well with the requirements of the cloud software trainee.
 
 In the future, after graduating I will apply for a Computer Science Master's Degree in Aalto, Tampere University or Oulu University. 
 
+**My hobby: **
+- Hitting the gym
+- Playing football
+- Learning Finnish (I have been going with Finnish seriously for 1 year and 4 months. In the future, I want to get a B1 level on the YKI test)
+  
 ## 5 reasons why I choose Kempower 
 ### 1. I need a practical training for my study. 
 I have completed 140/240 credits at my university and I expect that I will finish about 190/240 credits at the end of April 2024. So I need 30 credits for practical training and 15 credits more to graduate. And Kempower is my ideal place to do that. 
