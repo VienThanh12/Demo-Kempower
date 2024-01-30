@@ -167,8 +167,20 @@ We also need to write some tests to check whether it's working as I think or not
 
 <img width="247" alt="Screenshot 2024-01-29 at 23 39 07" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/4d308cfb-5767-4953-b2e5-9d28cf45ae69">
 
+**My Resume**
+
+[VienHaCV.pdf](https://github.com/VienThanh12/Demo-Kempower/files/14095769/VienHaCV.pdf)
+
+**My Cover Letter**
+
+[CoverLertter_Kempower.pdf](https://github.com/VienThanh12/Demo-Kempower/files/14095819/CoverLertter_Kempower.pdf)
+
+**My transcript of Record**
+
+[TranscriptOfRecords.pdf](https://github.com/VienThanh12/Demo-Kempower/files/14095833/TranscriptOfRecords.pdf)
+
 ### Improvement in the future
-There are many room for improvements like create a sign up view or we can use react route to create a link between a view.
+There is much room for improvement like creating a sign-up view or we can use the react route to create a link between a view.
 
 **Reference:**
 
