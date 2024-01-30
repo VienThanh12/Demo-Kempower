@@ -1,5 +1,7 @@
 # Interview 30.1.2024 Kempower
-The hiring manager Mats Mattsson, and the mentors Aku Huotari and Sean Hammond.
+I just wanted to drop a quick thank you for giving me an opportunity to discuss with Mats Mattsson, and the cool mentors Aku Huotari and Sean Hammond. 
+It was awesome getting to discuss Cloud Software Trainee Program 2024 with you guys. 
+I appreciate the opportunity and looking forward to hopefully being a part of the team!
 
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
