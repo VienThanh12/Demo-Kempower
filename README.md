@@ -135,11 +135,13 @@ Here is the idea of my application
 <img width="782" alt="Screenshot 2024-01-27 at 15 08 22" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/80d571ea-7300-425d-977e-fd4bd7583c22">
 
 Explaining of Coding
+
 <img width="246" alt="Screenshot 2024-01-29 at 23 01 04" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/46f38b62-9ccb-4302-a568-9e7f7a2a8461">
 
 You can see that the project will have two files (Blog-Frontend and Blog-Project)
 Blog-Frontend will be responsible for the user interface.
 Blog-Project will take care of the data.
+
 <img width="248" alt="Screenshot 2024-01-29 at 23 03 28" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/a1f1b6bb-a569-44fe-994d-46c0031c7954">
 
 In the backend, we will have many files like this
