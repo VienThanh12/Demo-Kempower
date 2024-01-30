@@ -1,3 +1,6 @@
+# Interview 30.1.2024 Kempower
+The hiring manager Mats Mattsson, and the mentors Aku Huotari and Sean Hammond.
+
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
