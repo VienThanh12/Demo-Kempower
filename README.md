@@ -6,9 +6,9 @@ I appreciate the opportunity and looking forward to hopefully being a part of th
 ## A little bit about myself
 My name is Ha Vien (Kevin), and I am currently pursuing a Bachelor of Engineering in Automotive Engineering Technology at Seinäjoki University of Applied Sciences.
 
-In my educational journey, I have maintained a GPA of 4.77/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
+In my educational journey, I have maintained a GPA of 4.8/5 with 140/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests.
 
-<img width="351" alt="Screenshot 2024-01-28 at 16 20 20" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/ed82f6c9-53bd-4b77-8c3a-39eb87cf7431">
+<img width="346" alt="Screenshot 2024-01-31 at 10 39 15" src="https://github.com/VienThanh12/Demo-Kempower/assets/67015555/5b24c893-104e-482d-8fcd-e531e8e03a94">
 
 
 My academic background, coupled with my passion for Information Technology, has driven me to delve into diverse projects and collaborations that showcase my proficiency in various programming languages, frameworks, and tools. I have been working with C/C++ for almost 6 years so I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. One of my notable achievements is completing the Full Stack Open Certification from the University of Helsinki, which enhanced my skills in web development.
